@@ -1,4 +1,4 @@
-
+#!/usr/bin/env groovy Jenkinsfile
 pileline{
     agent ant
     stages{

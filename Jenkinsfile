@@ -1,5 +1,5 @@
-#!/usr/bin/env groovy Jenkinsfile
-pileline{
+
+pipeline {
     agent ant
     stages{
         stage('Build'){
